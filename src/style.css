@@ -1,0 +1,17 @@
+body{
+    padding:0;
+    margin:0;
+}
+.layout{
+    display:flex;
+    justify-content: flex-end;
+    align-items:flex-end ;
+
+}
+.layout h1{
+    color:white;
+    font-family:'Akkurat Pro';
+    font-weight:100;
+    font-size:5vw;
+    padding-right:5vw;
+}
